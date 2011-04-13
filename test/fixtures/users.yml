@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  email: MyString
+  password: MyString
+  strength: 1
+  dexterity: 1
+  endurance: 1
+  wins: 1
+  losses: 1
+
+two:
+  name: MyString
+  email: MyString
+  password: MyString
+  strength: 1
+  dexterity: 1
+  endurance: 1
+  wins: 1
+  losses: 1
